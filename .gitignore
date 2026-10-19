@@ -1,0 +1,9 @@
+# Runtime files: may contain exact coordinates, alert identifiers, and local diagnostics
+*.log
+*.log.old
+WeatherTraySettings.json
+WeatherTrayState.json
+
+# Operating-system housekeeping
+.DS_Store
+Thumbs.db
