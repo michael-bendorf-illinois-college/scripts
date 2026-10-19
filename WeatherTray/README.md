@@ -131,6 +131,10 @@ WeatherTray creates a per-user directory:
 - [Developer architecture and verification](docs/DEVELOPMENT.md)
 - [Changelog](CHANGELOG.md)
 
+## Development note
+
+This project was developed with assistance from OpenAI's ChatGPT, including support for code development and documentation. Michael Bendorf is responsible for the project's content, release decisions, and ongoing maintenance.
+
 ## License
 
 **Mozilla Public License 2.0** — [local LICENSE](LICENSE) · [repository license](../LICENSE).

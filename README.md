@@ -44,6 +44,10 @@ scripts/
 
 These are **source releases**, not packaged installers. Read the instructions for each project, keep the files in a stable local folder, and review scripts before execution. Where a scheduled task or logon automation is recommended, setup instructions are included; such tasks are **not created merely by downloading this repository**.
 
+## Development note
+
+WeatherTray was developed with assistance from OpenAI's ChatGPT, including support for code development and documentation. Michael Bendorf is responsible for the project's content, release decisions, and ongoing maintenance.
+
 ## License and contributions
 
 Code in this repository, including WeatherTray, is available under the **[Mozilla Public License 2.0 (MPL-2.0)](LICENSE)**.
